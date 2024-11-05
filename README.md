@@ -1,2 +1,2 @@
 ciach
-wersja 2
+wersja 2.1
